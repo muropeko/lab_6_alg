@@ -1,0 +1,4 @@
+﻿  test_6_4_iter.cpp
+C:\Users\Home\Desktop\projects\algoritm_6\test_6_4_iter\test_6_4_iter.cpp(15,11): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Home\Desktop\projects\algoritm_6\test_6_4_iter\test_6_4_iter.cpp(15,14): warning C4101: b: неиспользованная локальная переменная
+  test_6_4_iter.vcxproj -> C:\Users\Home\Desktop\projects\algoritm_6\lab_6_4_alg\x64\Debug\test_6_4_iter.dll
